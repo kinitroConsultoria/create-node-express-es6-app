@@ -1,0 +1,14 @@
+{
+  "name": "create-node-express-es6-app",
+  "version": "0.0.1",
+  "description": "Simple Node.js starter project using express and ECMAScript Modules",
+  "bin": {
+    "create-node-express-es6-app": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "K-Devs <kinitroconsultoria@gmail.com>",
+  "license": "MIT"
+}
