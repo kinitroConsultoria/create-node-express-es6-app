@@ -16,6 +16,7 @@
   "author": "K-Devs <kinitroconsultoria@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "node-fetch": "^3.2.10"
   }
