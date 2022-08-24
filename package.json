@@ -1,6 +1,6 @@
 {
   "name": "create-node-express-es6-app",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Simple Node.js starter project using express and ECMAScript Modules",
   "bin": {
     "create-node-express-es6-app": "bin/cli.js"
