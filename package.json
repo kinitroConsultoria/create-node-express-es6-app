@@ -16,10 +16,10 @@
   "author": "K-Devs <kinitroconsultoria@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^5.0.1",
-    "commander": "^9.4.0",
+    "chalk": "^4.1.2",
+    "commander": "^4.1.1",
     "cross-spawn": "^7.0.3",
     "semver": "^7.3.7",
-    "validate-npm-package-name": "^4.0.0"
+    "validate-npm-package-name": "^3.0.0"
   }
 }
